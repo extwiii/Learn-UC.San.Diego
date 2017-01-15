@@ -8,7 +8,9 @@ Learning How to Learn: Powerful mental tools to help you master tough subjects -
 * Optional Interviews
 
 ## Week02
-* 
+* Chunking—The Essentials
+* Seeing the Bigger Picture
+* Optional Interviews
 
 ## Week03
 * 
