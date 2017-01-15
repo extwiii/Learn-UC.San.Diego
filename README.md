@@ -2,11 +2,13 @@
 Learning How to Learn: Powerful mental tools to help you master tough subjects - UC San Diego - Coursera
 
 ## Week01
-* 
-
+* Focused versus Diffuse Thinking
+* Procrastination, Memory, and Sleep
+* Summary 
+* Optional Interviews
 
 ## Week02
-*   
+* 
 
 ## Week03
 * 
