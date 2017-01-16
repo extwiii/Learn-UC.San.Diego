@@ -13,7 +13,9 @@ Learning How to Learn: Powerful mental tools to help you master tough subjects -
 * Optional Interviews
 
 ## Week03
-* 
+* Procrastination
+* Memory
+* Optional Interviews
 
 ## Week04
 * 
