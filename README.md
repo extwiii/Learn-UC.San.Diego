@@ -18,7 +18,9 @@ Learning How to Learn: Powerful mental tools to help you master tough subjects -
 * Optional Interviews
 
 ## Week04
-* 
+* Renaissance Learning and Unlocking Your Potential I
+* Renaissance Learning and Unlocking Your Potential II
+* Optional Interviews
 
 #### Taught by: 
 
